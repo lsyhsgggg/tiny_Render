@@ -22,3 +22,4 @@ class Camera {
 	}
 
 };
+class gjjg{};
